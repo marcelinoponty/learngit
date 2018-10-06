@@ -1,2 +1,6 @@
 some content
+<<<<<<< HEAD
 inline
+=======
+some more content
+>>>>>>> my-great-feature
